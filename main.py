@@ -8,4 +8,4 @@ def index():
 
 @app.get('/about')
 def about():
-    return {'Fuck':' We haven`t code it yet'}
+    return {'Fuck':' We haven`t code it g yet'}
